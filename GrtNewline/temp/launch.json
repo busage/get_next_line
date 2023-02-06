@@ -1,0 +1,35 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+	    {
+            "name": "(lldb) Launch",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${/Users/alialawlaqi/Desktop/GrtNewline}/a.out",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${/Users/alialawlaqi/Desktop/GrtNewline}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb"
+        }/*,
+        {
+            "name": "C/C++: clang build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${/Users/alialawlaqi/Desktop/GrtNewline}/${git_next_line_bonus}",
+            "args": ["-std=c++17",
+			"-stdlib=libc++",
+			"-g",
+			"${git_next_line_bonus.c}",
+			"-o",
+			"${/Users/alialawlaqi/Desktop/GrtNewline}/${git_next_line_bonus}"],
+            "stopAtEntry": false,
+            "cwd": "${/Users/alialawlaqi/Desktop/GrtNewline}",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "lldb",
+            "preLaunchTask": "C/C++: clang build active file"
+        }*/
+    ]
+}
